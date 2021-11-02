@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Angular_Form_Handler
+=======
 # FormHandling
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
@@ -29,3 +32,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Deployment
 
 This app is deployed using Jenkins, Digital Ocean...
+>>>>>>> 69a90f02cbd211c2ed1c8996311ea4b88854fd49
